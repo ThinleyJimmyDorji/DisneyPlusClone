@@ -1,0 +1,4 @@
+/* make the content contained in a box */
+* {
+  box-sizing: border-box;
+}
